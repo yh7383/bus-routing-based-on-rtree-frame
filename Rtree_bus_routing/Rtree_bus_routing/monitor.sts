@@ -1,0 +1,9 @@
+#Allegro PCB Router v17-4-0 made 2019/09/12 at 15:39:59
+#Host 
+#ROUTING STATUS <<< C:\Users\29232\source\repos\BusRouting\BusRouting\b.dsn >>>
+Start  Time: Wed Jan 05 20:18:09 2022
+Report Time: Wed Jan 05 20:18:26 2022
+
+Nets         =      512   Connections         =      512
+Current Wire =        0   Reroute wires       =     1024
+Completion   =    0.00%   Unconnections       =      899
